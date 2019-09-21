@@ -1,0 +1,12 @@
+[
+{
+    "name":"Nandi Irmawan",
+  "age" : 18,
+    "address" : "2018-01-10",
+    "hobbies" : ["Akting", "Musik"],
+  "is_married" : false,
+    "list_school" : ["SMK Negeri 1 Lemahsugih", "2016", "2019", null],
+    "skills" : ["Junior Network Aministrator", "Web Programming-beginner"],
+    "interest_in_coding" : true   
+}
+]

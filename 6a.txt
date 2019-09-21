@@ -1,0 +1,1 @@
+select name.name, work.name, category.salary from name inner JOIN work on name.id_work=work.id inner join category on category.id=work.id_salary
